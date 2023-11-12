@@ -150,7 +150,6 @@ DECODER
 
 
 
-
 ### RESULTS 
 
 Thus, 8 to 3 Encoder and 3 to 8 Decoder is implemented using verilog and its outputs is validated .
