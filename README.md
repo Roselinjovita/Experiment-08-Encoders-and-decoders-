@@ -132,7 +132,6 @@ ENCODER
 ![282292655-c6f2c806-ff5a-45eb-b3d6-b6bb2bfd62ae](https://github.com/Roselinjovita/Experiment-08-Encoders-and-decoders-/assets/119104296/c2345429-43c4-4bbc-ae37-95c573188046)
 
 
-
 DECODER
 
 ![282292676-c41bd2c5-5cf3-4fda-9d9b-d09244fac972](https://github.com/Roselinjovita/Experiment-08-Encoders-and-decoders-/assets/119104296/a748fbe5-548f-4e4c-b644-78d6733989bb)
